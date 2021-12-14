@@ -1,4 +1,4 @@
-# Code examples for Java logging blog post
+# Code examples for Java logging blog post,
 
 The code in this repository was used for demo purposes when writing the blog post about logging and handling exceptions in Java. 
 
